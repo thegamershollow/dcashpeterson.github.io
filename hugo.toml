@@ -1,0 +1,10 @@
+baseURL = 'https://dcashpeterson.github.io/'
+defaultContentLanguage = "en"
+title = 'When Pigs Fly'
+theme = 'itheme'
+paginate = 5
+
+[params]
+[[params.socialMedia]]
+    name = 'Github'
+    url = 'https://github.com/dcashpeterson'
