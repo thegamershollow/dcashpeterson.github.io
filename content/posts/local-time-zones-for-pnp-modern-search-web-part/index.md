@@ -1,7 +1,7 @@
 ---
 title: "Local Time Zones for PnP Modern Search Web Part"
 date: "2019-12-21"
-categories: 
+tags: 
   - "handlebars"
   - "o365"
   - "pnp"

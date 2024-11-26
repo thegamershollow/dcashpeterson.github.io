@@ -1,10 +1,7 @@
 ---
 title: "Access Denied Error on Styles Library"
 date: "2020-03-26"
-categories: 
-  - "o365"
-  - "powershell"
-  - "tips"
+tags: ["o365","powershell", "tips"]
 cover: "images/tips-and-tricks-1.jpeg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Site Design for Easy Site Page Management"
 date: "2020-04-16"
-categories: 
+tags: 
   - "o365"
   - "powershell"
   - "sharepoint-online"

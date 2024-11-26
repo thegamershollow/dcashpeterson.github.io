@@ -1,8 +1,6 @@
 ---
 title: "Themes for your SharePoint 2010 environment"
 date: "2012-08-07"
-categories: 
-  - "branding"
 tags: 
   - "branding"
   - "sharepoint"

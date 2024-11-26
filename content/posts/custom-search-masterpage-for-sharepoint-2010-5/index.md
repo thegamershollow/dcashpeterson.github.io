@@ -1,13 +1,7 @@
 ---
 title: "Custom Search MasterPage for SharePoint 2010"
 date: "2012-08-07"
-categories: 
-  - "branding"
-tags: 
-  - "branding"
-  - "search"
-  - "sharepoint"
-  - "sharepoint-2010"
+tags: ["branding", "search", "sharepoint", "sharepoint-2010"]
 ---
 
 I wish I could say that I was smart enough to have figured this one out for myself but I can't. I was working on my first custom branded SharePoint 2010 site and the search screen was all messed up. The navigation was displaying doubled. It turns out that the search center out of the box used minimal.master. This uses the placeholders that are in v4.master in different way so the search box ends up in the breadcrumb pull down. At any rate, [Randy Drisgill](http://blog.drisgill.com/2010/09/converting-custom-sharepoint-2010.html) wrote a great and very easy to follow post about how to modify your custom masterpage to the search center. It took me longer to create the feature to deploy the new search masterpage than it did to make the modifications.

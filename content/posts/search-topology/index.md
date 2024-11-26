@@ -1,12 +1,11 @@
 ---
 title: "More than I ever wanted to know about the SharePoint Search Topology"
 date: "2018-10-16"
-categories: 
+tags: 
+  - "featured"
   - "powershell"
   - "search"
   - "sharepoint-2013"
-tags: 
-  - "featured"
 cover: "images/person-woman-eyes-face.jpg"
 ---
 

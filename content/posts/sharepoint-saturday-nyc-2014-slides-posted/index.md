@@ -1,7 +1,7 @@
 ---
 title: "SharePoint Saturday NYC 2014 Slides Posted"
 date: "2014-08-06"
-categories: 
+tags: 
   - "sharepoint-saturday"
 ---
 

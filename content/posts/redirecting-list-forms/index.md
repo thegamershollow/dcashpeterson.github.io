@@ -1,7 +1,7 @@
 ---
 title: "Redirecting List Forms"
 date: "2023-08-16"
-categories: 
+tags: 
   - "m365"
   - "sharepoint-online"
 cover: "images/adobestock_20902025.jpeg"

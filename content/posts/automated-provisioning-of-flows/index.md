@@ -1,9 +1,7 @@
 ---
 title: "Automated Provisioning of Flows"
 date: "2021-06-09"
-categories: 
-  - "m365"
-  - "power-automate"
+tags: ["m365","power-automate"]
 cover: "images/modern-glass-architecture.jpg"
 ---
 

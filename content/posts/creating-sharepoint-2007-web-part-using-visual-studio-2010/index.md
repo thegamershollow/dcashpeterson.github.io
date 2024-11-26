@@ -1,9 +1,7 @@
 ---
 title: "Creating SharePoint 2007 Web Part using Visual Studio 2010"
 date: "2012-08-07"
-tags: 
-  - "moss"
-  - "sharepoint-2007"
+tags: ["moss", "sharepoint-2007"]
 ---
 
 One of the things that I love about Visual Studio 2010 is the automated feature and solution creation. This works great when you are developing a web part for SharePoint 2010 and using Visual Studio 2010. Where I ran into a problem was I needed to create a web part for SharePoint 2007. It took me the better part of the day but I managed to get the web part working and deployed to a SharePoint 2007 farm.

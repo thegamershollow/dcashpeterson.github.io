@@ -1,12 +1,7 @@
 ---
 title: "Using Custom Color for Section Backgrounds and Page Headers"
 date: "2019-06-27"
-categories: 
-  - "branding"
-  - "featured"
-  - "o365"
-  - "powershell"
-  - "sharepoint-online"
+tags: ["branding", "featured", "o365", "powershell", "sharepoint-online"]
 cover: "images/pantone_wheel.jpeg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "SharePoint Saturday NYC Slide Deck Posted"
 date: "2013-08-19"
-categories: 
+tags: 
   - "sharepoint-2013"
   - "sharepoint-saturday"
 ---

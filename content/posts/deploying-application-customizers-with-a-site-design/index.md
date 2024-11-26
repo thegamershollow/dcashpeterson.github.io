@@ -1,7 +1,7 @@
 ---
 title: "Deploying Application Customizers with a Site Design"
 date: "2019-10-24"
-categories: 
+tags: 
   - "featured"
   - "pnp"
   - "powershell"

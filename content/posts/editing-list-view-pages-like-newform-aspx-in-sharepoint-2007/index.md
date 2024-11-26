@@ -1,7 +1,7 @@
 ---
 title: "Editing list view pages like newform.aspx in SharePoint 2007"
 date: "2012-10-02"
-categories: 
+tags: 
   - "sharepoint-2007"
 ---
 

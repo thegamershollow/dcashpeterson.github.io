@@ -1,8 +1,6 @@
 ---
 title: "When Pigs Fly..."
 date: "2012-08-07"
-categories: 
-  - "branding"
 tags: 
   - "branding"
   - "sharepoint"

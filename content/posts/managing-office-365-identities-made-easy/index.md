@@ -1,10 +1,9 @@
 ---
 title: "Managing Office 365 Identities Made Easy"
 date: "2017-02-08"
-categories: 
+tags: 
   - "o365"
   - "sharepoint-online"
-tags: 
   - "featured"
 cover: "images/pexels-photo-189449.jpeg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Using Widget Wrangler with PnP for IE"
 date: "2018-01-17"
-categories: 
+tags: 
   - "featured"
   - "pnp"
   - "sharepoint-2013"

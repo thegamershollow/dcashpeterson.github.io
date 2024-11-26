@@ -1,8 +1,6 @@
 ---
 title: "Powershell Commands for Installing Solutions and Features"
 date: "2012-08-07"
-categories: 
-  - "powershell"
 tags: 
   - "powershell"
   - "sharepoint"

@@ -1,7 +1,7 @@
 ---
 title: "Provisioning files in a feature in the root directory"
 date: "2012-11-30"
-categories: 
+tags: 
   - "sharepoint-2010"
   - "visual-studio"
 ---

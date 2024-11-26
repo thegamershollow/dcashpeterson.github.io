@@ -1,7 +1,7 @@
 ---
 title: "SharePoint Saturday New Hampshire Deck Posted"
 date: "2012-09-24"
-categories: 
+tags: 
   - "branding"
   - "sharepoint-2010"
 ---

@@ -1,10 +1,7 @@
 ---
 title: "Creating Status Indicator using PowerApps"
 date: "2021-03-01"
-categories: 
-  - "m365"
-  - "o365"
-  - "powerapps"
+tags: ["m365","o365","powerapps"]
 cover: "images/adobestock_37001853.jpeg"
 ---
 
